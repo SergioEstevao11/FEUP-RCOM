@@ -1,6 +1,6 @@
 # FEUP-RCOM
 
-**Description** - [**1º Project**](./project1/README.MD): Data Transfer Protocol Program, using the serial port, to exchange files between two connected computers; [**2º Project**](./project2/README.MD): FTP Application + Network Configuration to transfer data from the web and exchange files between computers in a local network
+**Description** - [**1º Project**](./project1): Data Transfer Protocol Program, using the serial port, to exchange files between two connected computers; [**2º Project**](./project2): FTP Application + Network Configuration to transfer data from the web and exchange files between computers in a local network
 
 **Course** - Computer Networks
 
